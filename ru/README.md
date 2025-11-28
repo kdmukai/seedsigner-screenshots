@@ -1,5 +1,5 @@
-# SeedSigner Screenshots: русский
-## Translation progress: 73.6%
+# SeedSigner Screenshots: (beta) русский (Russian)
+## Translation progress: 85.8%
 
 ---
 
@@ -9,10 +9,19 @@
 
 ## Main Menu Views
 
-<table style="border: 0;"><tr><td align="center">  <table align="left" style="border: 1px solid gray;"><tr><td align="center">MainMenuView<br/><br/><img src="main_menu_views/MainMenuView.png"></td></tr></table>
+<table style="border: 0;"><tr><td align="center">  <table align="left" style="border: 1px solid gray;"><tr><td align="center">OpeningSplashView<br/><br/><img src="main_menu_views/OpeningSplashView.png"></td></tr></table>
+  <table align="left" style="border: 1px solid gray;"><tr><td align="center">OpeningSplashView_no_partner_logos<br/><br/><img src="main_menu_views/OpeningSplashView_no_partner_logos.png"></td></tr></table>
+  <table align="left" style="border: 1px solid gray;"><tr><td align="center">MainMenuView<br/><br/><img src="main_menu_views/MainMenuView.png"></td></tr></table>
   <table align="left" style="border: 1px solid gray;"><tr><td align="center">MainMenuView_SDCardStateChangeToast_removed<br/><br/><img src="main_menu_views/MainMenuView_SDCardStateChangeToast_removed.png"></td></tr></table>
   <table align="left" style="border: 1px solid gray;"><tr><td align="center">MainMenuView_SDCardStateChangeToast_inserted<br/><br/><img src="main_menu_views/MainMenuView_SDCardStateChangeToast_inserted.png"></td></tr></table>
   <table align="left" style="border: 1px solid gray;"><tr><td align="center">MainMenuView_RemoveSDCardToast<br/><br/><img src="main_menu_views/MainMenuView_RemoveSDCardToast.png"></td></tr></table>
+  <table align="left" style="border: 1px solid gray;"><tr><td align="center">RemoveMicroSDWarningView<br/><br/><img src="main_menu_views/RemoveMicroSDWarningView.png"></td></tr></table>
+  <table align="left" style="border: 1px solid gray;"><tr><td align="center">MainMenuView_DefaultToast<br/><br/><img src="main_menu_views/MainMenuView_DefaultToast.png"></td></tr></table>
+  <table align="left" style="border: 1px solid gray;"><tr><td align="center">MainMenuView_InfoToast<br/><br/><img src="main_menu_views/MainMenuView_InfoToast.png"></td></tr></table>
+  <table align="left" style="border: 1px solid gray;"><tr><td align="center">MainMenuView_SuccessToast<br/><br/><img src="main_menu_views/MainMenuView_SuccessToast.png"></td></tr></table>
+  <table align="left" style="border: 1px solid gray;"><tr><td align="center">MainMenuView_WarningToast<br/><br/><img src="main_menu_views/MainMenuView_WarningToast.png"></td></tr></table>
+  <table align="left" style="border: 1px solid gray;"><tr><td align="center">MainMenuView_DireWarningToast<br/><br/><img src="main_menu_views/MainMenuView_DireWarningToast.png"></td></tr></table>
+  <table align="left" style="border: 1px solid gray;"><tr><td align="center">MainMenuView_ErrorToast<br/><br/><img src="main_menu_views/MainMenuView_ErrorToast.png"></td></tr></table>
   <table align="left" style="border: 1px solid gray;"><tr><td align="center">PowerOptionsView<br/><br/><img src="main_menu_views/PowerOptionsView.png"></td></tr></table>
   <table align="left" style="border: 1px solid gray;"><tr><td align="center">RestartView<br/><br/><img src="main_menu_views/RestartView.png"></td></tr></table>
   <table align="left" style="border: 1px solid gray;"><tr><td align="center">PowerOffView<br/><br/><img src="main_menu_views/PowerOffView.png"></td></tr></table>
@@ -27,7 +36,11 @@
   <table align="left" style="border: 1px solid gray;"><tr><td align="center">SeedMnemonicEntryView<br/><br/><img src="seed_views/SeedMnemonicEntryView.png"></td></tr></table>
   <table align="left" style="border: 1px solid gray;"><tr><td align="center">SeedMnemonicInvalidView<br/><br/><img src="seed_views/SeedMnemonicInvalidView.png"></td></tr></table>
   <table align="left" style="border: 1px solid gray;"><tr><td align="center">SeedFinalizeView<br/><br/><img src="seed_views/SeedFinalizeView.png"></td></tr></table>
-  <table align="left" style="border: 1px solid gray;"><tr><td align="center">SeedAddPassphraseView<br/><br/><img src="seed_views/SeedAddPassphraseView.png"></td></tr></table>
+  <table align="left" style="border: 1px solid gray;"><tr><td align="center">SeedAddPassphraseView_lowercase<br/><br/><img src="seed_views/SeedAddPassphraseView_lowercase.png"></td></tr></table>
+  <table align="left" style="border: 1px solid gray;"><tr><td align="center">SeedAddPassphraseView_uppercase<br/><br/><img src="seed_views/SeedAddPassphraseView_uppercase.png"></td></tr></table>
+  <table align="left" style="border: 1px solid gray;"><tr><td align="center">SeedAddPassphraseView_digits<br/><br/><img src="seed_views/SeedAddPassphraseView_digits.png"></td></tr></table>
+  <table align="left" style="border: 1px solid gray;"><tr><td align="center">SeedAddPassphraseView_symbols_1<br/><br/><img src="seed_views/SeedAddPassphraseView_symbols_1.png"></td></tr></table>
+  <table align="left" style="border: 1px solid gray;"><tr><td align="center">SeedAddPassphraseView_symbols_2<br/><br/><img src="seed_views/SeedAddPassphraseView_symbols_2.png"></td></tr></table>
   <table align="left" style="border: 1px solid gray;"><tr><td align="center">SeedAddPassphraseExitDialogView<br/><br/><img src="seed_views/SeedAddPassphraseExitDialogView.png"></td></tr></table>
   <table align="left" style="border: 1px solid gray;"><tr><td align="center">SeedReviewPassphraseView<br/><br/><img src="seed_views/SeedReviewPassphraseView.png"></td></tr></table>
   <table align="left" style="border: 1px solid gray;"><tr><td align="center">SeedOptionsView<br/><br/><img src="seed_views/SeedOptionsView.png"></td></tr></table>
@@ -38,10 +51,11 @@
   <table align="left" style="border: 1px solid gray;"><tr><td align="center">SeedExportXpubCoordinatorView<br/><br/><img src="seed_views/SeedExportXpubCoordinatorView.png"></td></tr></table>
   <table align="left" style="border: 1px solid gray;"><tr><td align="center">SeedExportXpubWarningView<br/><br/><img src="seed_views/SeedExportXpubWarningView.png"></td></tr></table>
   <table align="left" style="border: 1px solid gray;"><tr><td align="center">SeedExportXpubDetailsView<br/><br/><img src="seed_views/SeedExportXpubDetailsView.png"></td></tr></table>
+  <table align="left" style="border: 1px solid gray;"><tr><td align="center">SeedExportXpubQR_ScreenBrightnessView<br/><br/><img src="seed_views/SeedExportXpubQR_ScreenBrightnessView.png"></td></tr></table>
   <table align="left" style="border: 1px solid gray;"><tr><td align="center">SeedWordsWarningView<br/><br/><img src="seed_views/SeedWordsWarningView.png"></td></tr></table>
   <table align="left" style="border: 1px solid gray;"><tr><td align="center">SeedWordsView<br/><br/><img src="seed_views/SeedWordsView.png"></td></tr></table>
   <table align="left" style="border: 1px solid gray;"><tr><td align="center">SeedWordsView_2<br/><br/><img src="seed_views/SeedWordsView_2.png"></td></tr></table>
-  <table align="left" style="border: 1px solid gray;"><tr><td align="center">SeedBIP85ApplicationModeView<br/><br/><img src="seed_views/SeedBIP85ApplicationModeView.png"></td></tr></table>
+  <table align="left" style="border: 1px solid gray;"><tr><td align="center">SeedBIP85SelectNumWordsView<br/><br/><img src="seed_views/SeedBIP85SelectNumWordsView.png"></td></tr></table>
   <table align="left" style="border: 1px solid gray;"><tr><td align="center">SeedBIP85SelectChildIndexView<br/><br/><img src="seed_views/SeedBIP85SelectChildIndexView.png"></td></tr></table>
   <table align="left" style="border: 1px solid gray;"><tr><td align="center">SeedBIP85InvalidChildIndexView<br/><br/><img src="seed_views/SeedBIP85InvalidChildIndexView.png"></td></tr></table>
   <table align="left" style="border: 1px solid gray;"><tr><td align="center">SeedWordsBackupTestPromptView<br/><br/><img src="seed_views/SeedWordsBackupTestPromptView.png"></td></tr></table>
@@ -54,13 +68,20 @@
   <table align="left" style="border: 1px solid gray;"><tr><td align="center">SeedTranscribeSeedQRWholeQRView_12_Standard<br/><br/><img src="seed_views/SeedTranscribeSeedQRWholeQRView_12_Standard.png"></td></tr></table>
   <table align="left" style="border: 1px solid gray;"><tr><td align="center">SeedTranscribeSeedQRWholeQRView_24_Compact<br/><br/><img src="seed_views/SeedTranscribeSeedQRWholeQRView_24_Compact.png"></td></tr></table>
   <table align="left" style="border: 1px solid gray;"><tr><td align="center">SeedTranscribeSeedQRWholeQRView_24_Standard<br/><br/><img src="seed_views/SeedTranscribeSeedQRWholeQRView_24_Standard.png"></td></tr></table>
+  <table align="left" style="border: 1px solid gray;"><tr><td align="center">SeedTranscribeSeedQRZoomedInView_12_Compact<br/><br/><img src="seed_views/SeedTranscribeSeedQRZoomedInView_12_Compact.png"></td></tr></table>
+  <table align="left" style="border: 1px solid gray;"><tr><td align="center">SeedTranscribeSeedQRZoomedInView_12_Standard<br/><br/><img src="seed_views/SeedTranscribeSeedQRZoomedInView_12_Standard.png"></td></tr></table>
   <table align="left" style="border: 1px solid gray;"><tr><td align="center">SeedTranscribeSeedQRConfirmQRPromptView<br/><br/><img src="seed_views/SeedTranscribeSeedQRConfirmQRPromptView.png"></td></tr></table>
-  <table align="left" style="border: 1px solid gray;"><tr><td align="center">SeedSelectSeedView<br/><br/><img src="seed_views/SeedSelectSeedView.png"></td></tr></table>
+  <table align="left" style="border: 1px solid gray;"><tr><td align="center">SeedTranscribeSeedQRConfirmWrongSeedView<br/><br/><img src="seed_views/SeedTranscribeSeedQRConfirmWrongSeedView.png"></td></tr></table>
+  <table align="left" style="border: 1px solid gray;"><tr><td align="center">SeedTranscribeSeedQRConfirmInvalidQRView<br/><br/><img src="seed_views/SeedTranscribeSeedQRConfirmInvalidQRView.png"></td></tr></table>
+  <table align="left" style="border: 1px solid gray;"><tr><td align="center">SeedTranscribeSeedQRConfirmSuccessView<br/><br/><img src="seed_views/SeedTranscribeSeedQRConfirmSuccessView.png"></td></tr></table>
+  <table align="left" style="border: 1px solid gray;"><tr><td align="center">SeedSelectSeedView_address_verification<br/><br/><img src="seed_views/SeedSelectSeedView_address_verification.png"></td></tr></table>
   <table align="left" style="border: 1px solid gray;"><tr><td align="center">AddressVerificationSigTypeView<br/><br/><img src="seed_views/AddressVerificationSigTypeView.png"></td></tr></table>
-  <table align="left" style="border: 1px solid gray;"><tr><td align="center">AddressVerificationSuccessView<br/><br/><img src="seed_views/AddressVerificationSuccessView.png"></td></tr></table>
+  <table align="left" style="border: 1px solid gray;"><tr><td align="center">SeedAddressVerificationView<br/><br/><img src="seed_views/SeedAddressVerificationView.png"></td></tr></table>
+  <table align="left" style="border: 1px solid gray;"><tr><td align="center">SeedAddressVerificationSuccessView<br/><br/><img src="seed_views/SeedAddressVerificationSuccessView.png"></td></tr></table>
   <table align="left" style="border: 1px solid gray;"><tr><td align="center">LoadMultisigWalletDescriptorView<br/><br/><img src="seed_views/LoadMultisigWalletDescriptorView.png"></td></tr></table>
   <table align="left" style="border: 1px solid gray;"><tr><td align="center">MultisigWalletDescriptorView<br/><br/><img src="seed_views/MultisigWalletDescriptorView.png"></td></tr></table>
   <table align="left" style="border: 1px solid gray;"><tr><td align="center">SeedDiscardView<br/><br/><img src="seed_views/SeedDiscardView.png"></td></tr></table>
+  <table align="left" style="border: 1px solid gray;"><tr><td align="center">SeedSelectSeedView_sign_message<br/><br/><img src="seed_views/SeedSelectSeedView_sign_message.png"></td></tr></table>
   <table align="left" style="border: 1px solid gray;"><tr><td align="center">SeedSignMessageConfirmMessageView<br/><br/><img src="seed_views/SeedSignMessageConfirmMessageView.png"></td></tr></table>
   <table align="left" style="border: 1px solid gray;"><tr><td align="center">SeedSignMessageConfirmAddressView<br/><br/><img src="seed_views/SeedSignMessageConfirmAddressView.png"></td></tr></table>
   <table align="left" style="border: 1px solid gray;"><tr><td align="center">SeedElectrumMnemonicStartView<br/><br/><img src="seed_views/SeedElectrumMnemonicStartView.png"></td></tr></table>
@@ -76,6 +97,8 @@
   <table align="left" style="border: 1px solid gray;"><tr><td align="center">PSBTNoChangeWarningView<br/><br/><img src="psbt_views/PSBTNoChangeWarningView.png"></td></tr></table>
   <table align="left" style="border: 1px solid gray;"><tr><td align="center">PSBTMathView<br/><br/><img src="psbt_views/PSBTMathView.png"></td></tr></table>
   <table align="left" style="border: 1px solid gray;"><tr><td align="center">PSBTAddressDetailsView<br/><br/><img src="psbt_views/PSBTAddressDetailsView.png"></td></tr></table>
+  <table align="left" style="border: 1px solid gray;"><tr><td align="center">PSBTChangeDetailsView_single_sig_change_verified<br/><br/><img src="psbt_views/PSBTChangeDetailsView_single_sig_change_verified.png"></td></tr></table>
+  <table align="left" style="border: 1px solid gray;"><tr><td align="center">PSBTChangeDetailsView_single_sig_self_transfer_verified<br/><br/><img src="psbt_views/PSBTChangeDetailsView_single_sig_self_transfer_verified.png"></td></tr></table>
   <table align="left" style="border: 1px solid gray;"><tr><td align="center">PSBTChangeDetailsView_multisig_unverified<br/><br/><img src="psbt_views/PSBTChangeDetailsView_multisig_unverified.png"></td></tr></table>
   <table align="left" style="border: 1px solid gray;"><tr><td align="center">PSBTChangeDetailsView_multisig_verified<br/><br/><img src="psbt_views/PSBTChangeDetailsView_multisig_verified.png"></td></tr></table>
   <table align="left" style="border: 1px solid gray;"><tr><td align="center">PSBTOverviewView_op_return<br/><br/><img src="psbt_views/PSBTOverviewView_op_return.png"></td></tr></table>
@@ -113,11 +136,11 @@
 ## Settings Views
 
 <table style="border: 0;"><tr><td align="center">  <table align="left" style="border: 1px solid gray;"><tr><td align="center">SettingsMenuView<br/><br/><img src="settings_views/SettingsMenuView.png"></td></tr></table>
-  <table align="left" style="border: 1px solid gray;"><tr><td align="center">SettingsMenuView__Advanced<br/><br/><img src="settings_views/SettingsMenuView__Advanced.png"></td></tr></table>
-  <table align="left" style="border: 1px solid gray;"><tr><td align="center">SettingsEntryUpdateSelectionView_locale<br/><br/><img src="settings_views/SettingsEntryUpdateSelectionView_locale.png"></td></tr></table>
+  <table align="left" style="border: 1px solid gray;"><tr><td align="center">LocaleSelectionView<br/><br/><img src="settings_views/LocaleSelectionView.png"></td></tr></table>
   <table align="left" style="border: 1px solid gray;"><tr><td align="center">SettingsEntryUpdateSelectionView_persistent_settings<br/><br/><img src="settings_views/SettingsEntryUpdateSelectionView_persistent_settings.png"></td></tr></table>
   <table align="left" style="border: 1px solid gray;"><tr><td align="center">SettingsEntryUpdateSelectionView_coordinators<br/><br/><img src="settings_views/SettingsEntryUpdateSelectionView_coordinators.png"></td></tr></table>
   <table align="left" style="border: 1px solid gray;"><tr><td align="center">SettingsEntryUpdateSelectionView_denomination<br/><br/><img src="settings_views/SettingsEntryUpdateSelectionView_denomination.png"></td></tr></table>
+  <table align="left" style="border: 1px solid gray;"><tr><td align="center">SettingsMenuView__Advanced<br/><br/><img src="settings_views/SettingsMenuView__Advanced.png"></td></tr></table>
   <table align="left" style="border: 1px solid gray;"><tr><td align="center">SettingsEntryUpdateSelectionView_network<br/><br/><img src="settings_views/SettingsEntryUpdateSelectionView_network.png"></td></tr></table>
   <table align="left" style="border: 1px solid gray;"><tr><td align="center">SettingsEntryUpdateSelectionView_qr_density<br/><br/><img src="settings_views/SettingsEntryUpdateSelectionView_qr_density.png"></td></tr></table>
   <table align="left" style="border: 1px solid gray;"><tr><td align="center">SettingsEntryUpdateSelectionView_xpub_export<br/><br/><img src="settings_views/SettingsEntryUpdateSelectionView_xpub_export.png"></td></tr></table>
@@ -129,11 +152,15 @@
   <table align="left" style="border: 1px solid gray;"><tr><td align="center">SettingsEntryUpdateSelectionView_compact_seedqr<br/><br/><img src="settings_views/SettingsEntryUpdateSelectionView_compact_seedqr.png"></td></tr></table>
   <table align="left" style="border: 1px solid gray;"><tr><td align="center">SettingsEntryUpdateSelectionView_bip85_child_seeds<br/><br/><img src="settings_views/SettingsEntryUpdateSelectionView_bip85_child_seeds.png"></td></tr></table>
   <table align="left" style="border: 1px solid gray;"><tr><td align="center">SettingsEntryUpdateSelectionView_electrum_seeds<br/><br/><img src="settings_views/SettingsEntryUpdateSelectionView_electrum_seeds.png"></td></tr></table>
+  <table align="left" style="border: 1px solid gray;"><tr><td align="center">SettingsEntryUpdateSelectionView_microsd_toast_timer<br/><br/><img src="settings_views/SettingsEntryUpdateSelectionView_microsd_toast_timer.png"></td></tr></table>
   <table align="left" style="border: 1px solid gray;"><tr><td align="center">SettingsEntryUpdateSelectionView_message_signing<br/><br/><img src="settings_views/SettingsEntryUpdateSelectionView_message_signing.png"></td></tr></table>
   <table align="left" style="border: 1px solid gray;"><tr><td align="center">SettingsEntryUpdateSelectionView_privacy_warnings<br/><br/><img src="settings_views/SettingsEntryUpdateSelectionView_privacy_warnings.png"></td></tr></table>
   <table align="left" style="border: 1px solid gray;"><tr><td align="center">SettingsEntryUpdateSelectionView_dire_warnings<br/><br/><img src="settings_views/SettingsEntryUpdateSelectionView_dire_warnings.png"></td></tr></table>
   <table align="left" style="border: 1px solid gray;"><tr><td align="center">SettingsEntryUpdateSelectionView_qr_brightness_tips<br/><br/><img src="settings_views/SettingsEntryUpdateSelectionView_qr_brightness_tips.png"></td></tr></table>
   <table align="left" style="border: 1px solid gray;"><tr><td align="center">SettingsEntryUpdateSelectionView_partner_logos<br/><br/><img src="settings_views/SettingsEntryUpdateSelectionView_partner_logos.png"></td></tr></table>
+  <table align="left" style="border: 1px solid gray;"><tr><td align="center">SettingsMenuView__Hardware<br/><br/><img src="settings_views/SettingsMenuView__Hardware.png"></td></tr></table>
+  <table align="left" style="border: 1px solid gray;"><tr><td align="center">SettingsEntryUpdateSelectionView_display_config<br/><br/><img src="settings_views/SettingsEntryUpdateSelectionView_display_config.png"></td></tr></table>
+  <table align="left" style="border: 1px solid gray;"><tr><td align="center">SettingsEntryUpdateSelectionView_color_inverted<br/><br/><img src="settings_views/SettingsEntryUpdateSelectionView_color_inverted.png"></td></tr></table>
   <table align="left" style="border: 1px solid gray;"><tr><td align="center">IOTestView<br/><br/><img src="settings_views/IOTestView.png"></td></tr></table>
   <table align="left" style="border: 1px solid gray;"><tr><td align="center">DonateView<br/><br/><img src="settings_views/DonateView.png"></td></tr></table>
   <table align="left" style="border: 1px solid gray;"><tr><td align="center">SettingsIngestSettingsQRView_persistent<br/><br/><img src="settings_views/SettingsIngestSettingsQRView_persistent.png"></td></tr></table>
@@ -146,7 +173,8 @@
 
 <table style="border: 0;"><tr><td align="center">  <table align="left" style="border: 1px solid gray;"><tr><td align="center">NotYetImplementedView<br/><br/><img src="misc_error_views/NotYetImplementedView.png"></td></tr></table>
   <table align="left" style="border: 1px solid gray;"><tr><td align="center">UnhandledExceptionView<br/><br/><img src="misc_error_views/UnhandledExceptionView.png"></td></tr></table>
+  <table align="left" style="border: 1px solid gray;"><tr><td align="center">CameraConnectionErrorView<br/><br/><img src="misc_error_views/CameraConnectionErrorView.png"></td></tr></table>
   <table align="left" style="border: 1px solid gray;"><tr><td align="center">NetworkMismatchErrorView<br/><br/><img src="misc_error_views/NetworkMismatchErrorView.png"></td></tr></table>
   <table align="left" style="border: 1px solid gray;"><tr><td align="center">OptionDisabledView<br/><br/><img src="misc_error_views/OptionDisabledView.png"></td></tr></table>
-  <table align="left" style="border: 1px solid gray;"><tr><td align="center">ErrorView<br/><br/><img src="misc_error_views/ErrorView.png"></td></tr></table>
+  <table align="left" style="border: 1px solid gray;"><tr><td align="center">ScanInvalidQRTypeView<br/><br/><img src="misc_error_views/ScanInvalidQRTypeView.png"></td></tr></table>
 </td></tr></table>
